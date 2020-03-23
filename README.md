@@ -1,1 +1,1 @@
-# Learning all the git so I am an Expert
+# Learning all the Git so I am an Expert
